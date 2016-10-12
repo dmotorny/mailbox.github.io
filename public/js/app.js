@@ -28,7 +28,7 @@ var usersList = `<div class="user_card_form">
             <input class="form-control" type="email" ng-model="$ctrl.user.email" required><br />
           </div>
           <div class="form_button form-group">
-            <div><button class="btn btn-primary">Save</button></div>
+            <div><button class="btn btn-primary">Save1</button></div>
           </div>
           <div class="clear"></div>
         </form>
